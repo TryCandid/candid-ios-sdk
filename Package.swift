@@ -16,8 +16,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "CandidSDK",
-            url: "https://github.com/trycandid/candid-ios-sdk/releases/download/v0.6.0/CandidSDK.xcframework.zip",
-            checksum: "92e2ecb5d93f4f433b48dae2d9d81bf91c3be03b2378c385fb4fedf2731c17c2"
+            url: "https://github.com/trycandid/candid-ios-sdk/releases/download/v0.6.1/CandidSDK.xcframework.zip",
+            checksum: "8e9951c829fd735619205d1c2c1f53c56751b4e78c35fabbd41423788e41f3da"
         )
     ]
 )
